@@ -23,8 +23,8 @@ I love everything Tech 📱💻⌚🎧🤖
 
 **Talking about Personal Stuffs/Achievements:**
 
-- 🥇 
-- 🎓 
+- 🎓 IBM Certified AI Engineer[🏆](https://www.coursera.org/account/accomplishments/specialization/certificate/658VSRVKUTFP), Deep Learning Specialization[🏆](https://www.coursera.org/account/accomplishments/specialization/certificate/TWFZEQACGNZJ)
+- 🥇 Codersrank Profile [🐱‍💻](https://profile.codersrank.io/user/abtexp)
 - 👨‍💻 Deep Learning Engineer [@RMgX Technologies LLP](https://www.rmgx.in//)
 - 🌱 Former Student Member [@MUST Research](https://must.co.in/)
 - 💬 Ask me about deep learning🤖, machine learning🧠, ai🤖, anything tech, or 📺 🌌 big bang theory, 👬friends, 👨🏻‍💼the office, I am happy to help
@@ -33,15 +33,13 @@ I love everything Tech 📱💻⌚🎧🤖
 &nbsp;
 
 **Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/keras/keras.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
@@ -66,23 +64,3 @@ I love everything Tech 📱💻⌚🎧🤖
 <a href="https://github.com/explabs-ai/dlflow">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=explabs-ai&repo=dlflow" />
 </a>
-<a href="https://github.com/abtExp/organise">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=organise" />
-</a>
-
-<a href="https://github.com/abtExp/audioSourceSeparation">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=organise" />
-</a>
-
-<a href="https://github.com/abtExp/docanize">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=docanize" />
-</a>
-
-<a href="https://github.com/abtExp/vecto">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=vecto" />
-</a>
-<br />
-
-⭐️ My Organizations : 
-
-<a href="https://github.com/explabs-ai">Exp Labs AI</a>
