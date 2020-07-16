@@ -50,28 +50,7 @@ I love everything Tech 📱💻⌚🎧🤖
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
 
-<div>
 ⭐️ Projects that I've worked on :rocket:
-<a href="https://github.com/abtExp/organise">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=organise" />
-</a>
-
-<a href="https://github.com/abtExp/audioSourceSeparation">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=organise" />
-</a>
-
-<a href="https://github.com/abtExp/docanize">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=docanize" />
-</a>
-
-<a href="https://github.com/abtExp/vecto">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=vecto" />
-</a>
-</div>
-<br />
-
-<div>
-⭐️ Projects that I'm working on :rocket:
 <a href="https://github.com/abtExp/arxivr">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=arxivr" />
 </a>
@@ -87,11 +66,23 @@ I love everything Tech 📱💻⌚🎧🤖
 <a href="https://github.com/explabs-ai/dlflow">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=explabs-ai&repo=dlflow" />
 </a>
-</div>
+<a href="https://github.com/abtExp/organise">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=organise" />
+</a>
+
+<a href="https://github.com/abtExp/audioSourceSeparation">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=organise" />
+</a>
+
+<a href="https://github.com/abtExp/docanize">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=docanize" />
+</a>
+
+<a href="https://github.com/abtExp/vecto">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtExp&repo=vecto" />
+</a>
 <br />
 
 ⭐️ My Organizations : 
 
-<a href="https://github.com/explabs-ai/dlflow">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=explabs-ai" />
-</a>
+<a href="https://github.com/explabs-ai">Exp Labs AI</a>
