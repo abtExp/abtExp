@@ -49,4 +49,4 @@ I love everything Tech 📱💻⌚🎧🤖
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
 
 ⭐️ Projects that I'm focusing on : <br /><br />
-    <img src='./down.png' />
+    <img src='./Daco_4093348.png' width='200px' height='200px'/>
