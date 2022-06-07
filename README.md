@@ -32,5 +32,5 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-  <img src='' alt='contributions' />
+  <img src='profile-3d-contrib/profile-season-animate.svg' alt='contributions' />
   
