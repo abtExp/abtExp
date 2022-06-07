@@ -32,5 +32,7 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mltougo6bx9njjym52t24kw64&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=mltougo6bx9njjym52t24kw64&redirect=true)
+  
   <img src='profile-3d-contrib/profile-season-animate.svg' alt='contributions' />
   
