@@ -1,9 +1,24 @@
 # 💫About Me :
-👋 Hi, I’m Anubhav,
-👀 I’m interested in All stuff ML (Computer Vision, Audio Signal Processing, NLP)
-🌱 I’ve 3 years experience working as a ML Research Engineer and I'm a wannabe research scientist in ML
-💞️ I’m looking to collaborate on all stuff ML and Python
-📫 How to reach me : 🐤@abtExp_
+
+Hi there 🙋, Welcome to my profile. Here's a bit about me : 
+
+I am a Machine Learning Research Engineer 🤖👨‍💻
+
+Specialising in Computer Vision 👁️, Audio Signal Processing 🔊 with some interest in Natural Language Processing 🗣️.
+
+I'm fluent in Python 🐍 and can also work with Web Technologies 🌐.
+
+I love reading research papers🧑‍🔬📃 and making developer utility tools 👨‍💻🛠️.
+
+I enjoy exercising my brain 🏋️‍♂️🧠 and learning about advancements in science .🧬🔭🌌
+
+I'm open to collaborate and contribute on Machine Learning Research projects 🏗️
+
+Want to talk about Cognition 🙇, Space 🌌, AI 🤖, Programming 👨‍💻, 
+
+You can find me on : 
+Twitter : 🐦@abtExp_
+GitHub : 🐱@abtExp
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//in/abtExp) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abt.exp) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abtexp) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abtExp_) 
