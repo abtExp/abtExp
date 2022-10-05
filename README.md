@@ -1,3 +1,5 @@
+<img src='lofi_generator.png' alt='lofi_img' />
+
 # 💫About Me :
 
 Hi there 🙋, Welcome to my profile. Here's a bit about me : 
